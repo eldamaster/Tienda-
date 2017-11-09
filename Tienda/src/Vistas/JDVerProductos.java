@@ -68,7 +68,7 @@ public class JDVerProductos extends javax.swing.JDialog {
                 {null}
             },
             new String [] {
-                "Title 1"
+                "Nombre Producto"
             }
         ));
         jTVerProductos.addMouseListener(new java.awt.event.MouseAdapter() {
