@@ -1,2 +1,2 @@
 # Tienda-
-ingreso de producto y compra de producto 
+ingreso de producto y compra de producto y actualiza la cantidad de productos
